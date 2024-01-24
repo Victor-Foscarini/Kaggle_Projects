@@ -1,0 +1,1 @@
+Analyzing (w/ geopandas) and modeling (w/ polynomial regression) Brazil Wildfires by state. Data from [forest-fires-in-brazil](https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil) and [geopandasbrazil](https://www.kaggle.com/datasets/victorfsc/geopandasbrazil).
