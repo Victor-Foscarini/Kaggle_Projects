@@ -1,2 +1,2 @@
-# California_Housing
-Complete data science project on california housing. EDA + ML prediction of house prices.
+# Kaggle Projects
+Here I document my projects as in [my kaggle profile](https://www.kaggle.com/victorfsc).
