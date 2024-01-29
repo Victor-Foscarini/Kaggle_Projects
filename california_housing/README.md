@@ -1,3 +1,5 @@
 Complete data science project on California housing. EDA + ML prediction of house prices. Also check out some visualizations [on Tableau]( https://public.tableau.com/app/profile/victor.foscarini.almeida3130/viz/california_housing_16351188075760/Dashboard1).
+
 The notebook engineering.ipynb is used for feature engineering, I select 4 options of preprocessing the dataset for machine learning to investigate.
+
 The notebook modelling.ipynb is used for selecting the best feature engineering and then the best machine learning model.
